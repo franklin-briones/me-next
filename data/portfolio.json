@@ -55,10 +55,10 @@
         "description": "I am working towards completing my Real Estate License in the state of Texas. "
       }
     ],
-    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "aboutpara": "An immigrant first, a builder second, and a cat dad third. I grew up learning the importnace of grit and hard work. I try to apply this mentality in everything I do, whether that's building furniture or working on the next best startup. You'll find me in Austin with my girlfriend Iza and our two cats, Mila and Evie. ",
     "resume": {
-      "tagline": "👋  I'm a software engineer, product designer, and maker.",
-      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+      "tagline": "👋  I'm a sales engineer, and web developer.",
+      "description": "I have helped deliver world-class user experiences to millions of people. Well-versed with React, Javascript, Typescript and most of the Web frameworks.",
       "experiences": [
         {
           "id": "1",
