@@ -1,14 +1,14 @@
-module.exports = {
+module.exports = { //eslint-disable-line
     "env": {
         "browser": true,
-        "commonjs": true,
         "es2021": true
     },
     "extends": "eslint:recommended",
     "overrides": [
     ],
     "parserOptions": {
-        "ecmaVersion": "latest"
+        "ecmaVersion": "latest",
+        "sourceType": "module"
     },
     "rules": {
     }
