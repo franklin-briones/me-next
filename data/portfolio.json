@@ -4,7 +4,7 @@
     "headerTaglineTwo": "I'm Franklin Briones",
     "headerTaglineThree": "Sales Engineer",
     "headerTaglineFour": " based in Austin, TX.",
-    "showResume": true,
+    "showResume": false,
     "showCursor": true,
     "showBlog": false,
     "darkMode": true,
@@ -32,7 +32,7 @@
         "id": "1",
         "title": "Epic Systems",
         "description": "Technical Solutions Engineer",
-        "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "imageSrc": "https://images.unsplash.com/photo-1528085141909-3b22d96ee1d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80",
         "url": "http://briones.dev/"
       },
       {
@@ -55,7 +55,7 @@
         "description": "I am working towards completing my Real Estate License in the state of Texas. "
       }
     ],
-    "aboutpara": "An immigrant first, a builder second, and a cat dad third. I grew up learning the importnace of grit and hard work. I try to apply this mentality in everything I do, whether that's building furniture or working on the next best startup. You'll find me in Austin with my girlfriend Iza and our two cats, Mila and Evie. ",
+    "aboutpara": "An immigrant first, a builder second, and a cat dad third. I grew up learning the importance of grit and hard work. I try to apply this mentality in everything I do, whether that's building furniture or working on the next best startup. You'll find me in Austin with my girlfriend Iza and our two cats, Mila and Evie. ",
     "resume": {
       "tagline": "👋  I'm a sales engineer, and web developer.",
       "description": "I have helped deliver world-class user experiences to millions of people. Well-versed with React, Javascript, Typescript and most of the Web frameworks.",
