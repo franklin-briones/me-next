@@ -53,6 +53,14 @@ export default function Home() {
       {data.showCursor && <Cursor />}
       <Head>
         <title>{data.name}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <meta property='og:title' content='Franklin Briones'/>
+        <meta property='og:image' content='./public/images/franklin_park.jpg'/>
+        <meta property='og:description' content='Franklin Briones: Sales Engineer'/>
+        <meta property='og:url' content='https://briones.dev'/>
+        <meta property='og:image:width' content='1200' />
+        <meta property='og:image:height' content='627' />
+        <meta property="og:type" content='website'/>
       </Head>
 
       <div className="gradient-circle"></div>
