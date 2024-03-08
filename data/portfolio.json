@@ -24,7 +24,7 @@
       "title": "Twitter",
       "link": "https://twitter.com/fradabricodes"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.briones.dev/" },
+    { "id": "4", "title": "Blog", "link": "https://franklinbriones.substack.com/" },
     { "id": "5", "title": "Email", "link": "mailto:franklin@briones.dev" }
   ],
   "projects": [
@@ -55,7 +55,7 @@
       "description": "I am working towards completing my Real Estate License in the state of Texas. "
     }
   ],
-  "aboutpara": "An immigrant first, a builder second, and a cat dad third. I grew up learning the importance of grit and hard work. I try to apply this mentality in everything I do, whether that's building furniture or working on the next best startup. You'll find me in Austin with my girlfriend Iza and our two cats, Mila and Evie. ",
+  "aboutpara": "An immigrant first, a builder second, and a cat dad third. I grew up learning the importance of grit and hard work. I try to apply this mentality in everything I do, whether that's building furniture or working on the next best startup. You'll find me in Austin with my wife Iza, our dog Suki, and our two cats, Mila and Evie.",
   "resume": {
     "tagline": "👋  I'm a sales engineer, and web developer.",
     "description": "I have helped deliver world-class user experiences to millions of people. Well-versed with React, Javascript, Typescript and most of the Web frameworks.",
